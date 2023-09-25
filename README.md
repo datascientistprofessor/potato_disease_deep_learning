@@ -3,8 +3,9 @@ Potato Disease Classification Deep Learning Project
 
 ![screen](https://github.com/datascientistprofessor/potato_disease_deep_learning/assets/60425996/9c8531b1-bf9a-4fec-863d-4f7ed396fe84)
 
-
 In this comprehensive agricultural deep learning project series, we address the persistent challenges faced by farmers in terms of economic losses and crop wastage due to various diseases affecting potato plants. Our approach involves utilizing Convolutional Neural Networks (CNN) for image classification, coupled with the development of a mobile application. This application empowers farmers to capture images of their plants and receive instant feedback on whether the plant is afflicted with a disease.
+
+![screen1](https://github.com/datascientistprofessor/potato_disease_deep_learning/assets/60425996/f133dd75-029e-4dba-9701-c95dba32e62b)
 
 The technological components shaping this project are as follows:
 
