@@ -1,5 +1,5 @@
 # potato_disease_deep_learning
-Potato Disease Classification Deep_Learning
+Potato Disease Classification Deep Learning Project
 
 ![screen](https://github.com/datascientistprofessor/potato_disease_deep_learning/assets/60425996/9c8531b1-bf9a-4fec-863d-4f7ed396fe84)
 
